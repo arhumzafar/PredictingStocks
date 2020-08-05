@@ -16,6 +16,7 @@ This project utilizes *PyTorch & sci-kit learn* heavily, while also running on t
 <br>
 <br>
 You can find my group members at the links below: <br>
+<br>
 Desmond Fung: https://www.linkedin.com/in/desmond-fung <br>
 Guk Kim: https://www.linkedin.com/in/guk-kim-b74933199 <br>
 <br>
